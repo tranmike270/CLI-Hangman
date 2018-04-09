@@ -1,0 +1,19 @@
+{
+  "name": "week11hw",
+  "version": "1.0.0",
+  "description": "Week 11 Homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tranmike270/Week11Hw.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tranmike270/Week11Hw/issues"
+  },
+  "homepage": "https://github.com/tranmike270/Week11Hw#readme"
+}
