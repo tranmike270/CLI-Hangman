@@ -1,7 +1,3 @@
-# Week11Hw
-Week 11 Homework
-
-
 The program will be able to run after typing npm install require --save.
 
 To the the program, simply type into your command line
